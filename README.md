@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rusmartin
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning solidity ad blockchain development
+- 🌱 I’m currently learning solidity and blockchain development
 - 💞️ I’m looking to collaborate on wordpress projects
 - 📫 How to reach me martinruscade.com
 
